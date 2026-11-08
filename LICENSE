@@ -1,0 +1,113 @@
+niceOneEncoder License 1.0
+Non-Commercial Copyleft
+
+Copyright (c) 2026 onemikedelta <https://github.com/onemikedelta>
+
+This work is shared for education and research. Anyone may use, study, modify
+and build on it without asking first, on two conditions: the source must stay
+open, and nobody may turn it into money without the author's permission.
+
+Note: this is not an open source license as defined by the Open Source
+Initiative, because it restricts commercial use.
+
+--------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------
+
+"The Work" is the software and other material in this repository, including
+any part of it.
+
+"You" is any person or entity exercising the rights granted here.
+
+"Larger Work" is any work that contains the Work or a modified version of it,
+in whole or in part, in source or binary form.
+
+"Source Code" is the preferred form of a work for making modifications to it,
+including the build scripts and configuration needed to produce a working
+result.
+
+"Commercial Use" is any use primarily intended for or directed towards
+commercial advantage or monetary compensation. This includes, but is not
+limited to: selling the Work or a Larger Work; selling, renting or leasing
+hardware that contains either; and offering either as part of a product,
+service or activity that is paid for, monetised or used to generate revenue.
+Use by a business for its own internal purposes, with no charge to anyone and
+no resale, is not Commercial Use.
+
+--------------------------------------------------------------------------
+2. GRANT
+--------------------------------------------------------------------------
+
+Subject to the conditions below, the author grants You a worldwide,
+royalty-free, non-exclusive, perpetual license to use, study, modify,
+reproduce and distribute the Work, and to include it in a Larger Work, for
+any purpose that is not Commercial Use. Private, educational and research use
+are covered.
+
+No prior permission is required. You do not need to contact the author to use
+this, to modify it, or to add it to your own project.
+
+--------------------------------------------------------------------------
+3. CONDITIONS
+--------------------------------------------------------------------------
+
+3.1 Source must stay open.
+    If You distribute the Work or a Larger Work, in source or binary form,
+    modified or unmodified, You must make the complete Source Code of what
+    You distributed publicly available, free of charge, no later than at the
+    time of distribution. Distributing a binary alone, or source that is not
+    sufficient to rebuild it, is not permitted.
+
+3.2 Same license.
+    A Larger Work You distribute must be licensed as a whole under this
+    license, or under a later version of it published by the author. You may
+    not add terms that restrict the rights granted here, and You may not
+    relicense the Work under terms that allow its source to be closed.
+
+3.3 No commercial use without permission.
+    Commercial Use of the Work or of a Larger Work is prohibited without
+    prior written permission from the author. Permission may be requested by
+    opening an issue in the project repository. The author may grant it on
+    separate terms, for a fee or free of charge, at the author's discretion.
+
+3.4 Attribution.
+    You must keep the copyright notice and a copy of this license with the
+    Work. Any Larger Work must visibly credit
+    "onemikedelta (https://github.com/onemikedelta)" and link to
+    <https://github.com/onemikedelta/niceOneEncoder> in its documentation
+    and, where one exists, in its about or credits screen.
+
+3.5 State your changes.
+    If You modify the Work, You must say so, so that Your changes are not
+    attributed to the author.
+
+--------------------------------------------------------------------------
+4. NO WARRANTY
+--------------------------------------------------------------------------
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE WORK OR ITS USE.
+
+--------------------------------------------------------------------------
+5. RESPONSIBLE USE
+--------------------------------------------------------------------------
+
+This Work drives a radio transmitter and reproduces a rolling code. You are
+responsible for complying with the radio regulations of your country and for
+using it only with equipment you own or are explicitly authorised to operate.
+
+--------------------------------------------------------------------------
+6. TERM
+--------------------------------------------------------------------------
+
+6.1 The rights granted here are perpetual for the copy You received and
+    cannot be withdrawn, as long as You comply with this license. The author
+    may release future versions of the Work under different terms; that does
+    not affect copies already received.
+
+6.2 If You breach this license, the rights granted here end automatically.
+    They are reinstated automatically if You fix the breach within 30 days of
+    becoming aware of it, or at any time by written notice from the author.
